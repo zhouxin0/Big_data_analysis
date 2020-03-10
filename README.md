@@ -18,3 +18,5 @@ Stochastic gradient descent (SGD) For a big data set D consisting of a large num
 To reduce the computational complexity of GD, stochastic gradient descent (SGD) samples an s-size subset D_s(k) of the data D at step k and evaluates the gradient ∇θJ(θ,D_s(k)) using the subset D_s(k).
 
 θ(k) := θ(k−1) − a∇θJ(θ(k−1),D_s(k)    (2)
+# reference 
+https://www.gla.ac.uk/coursecatalogue/course/?code=STATS5016
