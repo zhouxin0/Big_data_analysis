@@ -1,5 +1,4 @@
-# Big_data_analysis
-stochastic optimization-GD and SGD
+# Stochastic Optimization- GD and SGD
 # Algorithm
 This project outlines the stochastic optimization methods appearing in the project. Gradient
 descent (GD) is the starting point for stochastic optimization.
